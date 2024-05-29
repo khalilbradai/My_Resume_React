@@ -6,8 +6,8 @@ function Home(){
         
         <section id="hero" className="d-flex flex-column justify-content-center">
           <div className="container" data-aos="zoom-in" data-aos-delay="100">
-            <h1>Brandon Johnson</h1>
-            <p>I'm <span className="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+            <h1>Med khalil Bradai</h1>
+            <p>I'm <span className="typed" data-typed-items="Designer, Developer, Freelancer, DataScientist"></span></p>
             <div className="social-links">
               <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
               <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
